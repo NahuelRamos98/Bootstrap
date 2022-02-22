@@ -1,0 +1,39 @@
+body{
+    color: #FF533D  ;
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.bg_container{
+    background-color: #0F1626;
+}
+
+.bg_nav{
+  background-color: #F5F5F5;
+}
+
+.logo_html{
+    width:600px ;
+    height:200px ;
+}
+
+.logo_css{
+    width:600px ;
+    height:200px ;
+}
+
+.logo_java{
+    width:600px ;
+    height:200px ;
+}
+
+.ul__footer{
+    list-style: none;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color:#FF533D ;
+}
+
